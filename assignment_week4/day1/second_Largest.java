@@ -14,9 +14,10 @@ public class second_Largest {
 			list1.add(a[i]);
 		}
 		Collections.sort(list1);
-		System.out.println("The second largest element in the list is: "+list1.get(1));
+		System.out.println("The second largest element in the list is: "+list1.get(list1.size()-2));
 		
 
 	}
 
 }
+
