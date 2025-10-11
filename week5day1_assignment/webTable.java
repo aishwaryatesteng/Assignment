@@ -1,4 +1,4 @@
-package week5.day1assignment;
+package week5.week5day1_assignment;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -68,3 +68,4 @@ public class webTable {
        
 
 }
+
