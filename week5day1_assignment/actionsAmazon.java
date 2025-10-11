@@ -1,4 +1,4 @@
-package week5.day1assignment;
+package week5.week5day1_assignment;
 
 import java.io.File;
 import java.time.Duration;
@@ -30,3 +30,4 @@ public class actionsAmazon {
 	}
 
 }
+
