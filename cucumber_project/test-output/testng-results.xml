@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-27T17:02:50 IST" name="Default suite" finished-at="2025-10-27T17:04:27 IST" duration-ms="96531">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.leads_runner@18271936]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-10-27T17:02:50 IST" name="Default test" finished-at="2025-10-27T17:04:27 IST" duration-ms="96531">
+      <class name="Runner.leads_runner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:Runner.leads_runner@18271936]" started-at="2025-10-27T17:02:50 IST" name="setUpClass" finished-at="2025-10-27T17:02:51 IST" duration-ms="860" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@433d9680]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.leads_runner@18271936]" started-at="2025-10-27T17:02:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-27T17:03:08 IST" duration-ms="16955" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create lead with the valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create lead functionality of the leaftaps application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.leads_runner@18271936]" started-at="2025-10-27T17:03:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-27T17:03:25 IST" duration-ms="16486" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create lead with the valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create lead functionality of the leaftaps application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.leads_runner@18271936]" started-at="2025-10-27T17:03:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-27T17:03:42 IST" duration-ms="17148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Create lead with the valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create lead functionality of the leaftaps application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.leads_runner@18271936]" started-at="2025-10-27T17:03:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-27T17:04:03 IST" duration-ms="21154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Delete lead with the valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Delete lead functionality of the leaftaps application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.leads_runner@18271936]" started-at="2025-10-27T17:04:03 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-10-27T17:04:23 IST" duration-ms="20292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Edit lead with the valid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Edit lead functionality of the leaftaps application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Runner.leads_runner@18271936]" started-at="2025-10-27T17:04:23 IST" name="tearDownClass" finished-at="2025-10-27T17:04:27 IST" duration-ms="3554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Runner.leads_runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
